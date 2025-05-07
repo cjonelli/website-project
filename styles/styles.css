@@ -1,7 +1,22 @@
+.navbar {
+    margin-bottom: 20px;
+}
 .navbar-brand{
     font-size: 40px;
 }
 .nav-item{
     font-size: 20px;
     padding: 20px;
+}
+h1,h2,h3{
+    text-align: center;
+}
+.info{
+    background-color: #c52233;
+    border-radius: 10px;
+    padding: 10px;
+}
+#info-text{
+    color:white;
+    font-size: 15px;
 }
