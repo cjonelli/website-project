@@ -1,15 +1,27 @@
 .navbar {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .navbar-brand{
     font-size: 40px;
 }
 .nav-item{
     font-size: 20px;
-    padding: 20px;
+    padding: 10px;
+}
+
+.nav-item:hover{
+    background-color: #74121d;
+    border-radius: 10px;
+}
+
+body{
+    background-image: url(/images/dough-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1,h2,h3{
     text-align: center;
+    padding: 10px;
 }
 .info{
     background-color: #c52233;
@@ -19,4 +31,21 @@ h1,h2,h3{
 #info-text{
     color:white;
     font-size: 15px;
+}
+.carousel-inner {
+    border: 5px, solid, #c52233;
+    border-radius: 10px;
+    
+}
+.col-sm {
+    background-color: #c52233;
+    border-radius: 10px;
+    margin: 10px;
+}
+.review-text {
+    color: white;
+    font-size: 15px;
+}
+.footer {
+    text-align: center;
 }
