@@ -53,9 +53,24 @@ h1,h2,h3{
    background-color: #c52233;
    border-radius: 10px;
    padding: 20px;
-   
-    
 }
+.build-pizza{
+    text-align: center;
+    color: white;
+    background-color: #c52233;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+.hot-dishes{
+    text-align: center;
+    display: inline-block;
+    margin-left: 38%;
+    color: white;
+    background-color: #c52233;
+    border-radius: 10px;
+    padding: 20px;
+ }
 .footer {
     text-align: center;
 }
