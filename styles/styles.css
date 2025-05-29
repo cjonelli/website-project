@@ -94,3 +94,6 @@ h1,h2,h3{
     color: white;
 }
 
+li::marker{font-size:0;}
+
+
