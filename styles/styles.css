@@ -19,6 +19,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+p{
+    font-family:'Inter';
+}
 h1,h2,h3{
     text-align: center;
     padding: 10px;
