@@ -15,7 +15,7 @@
 }
 
 body{
-    background-image: url(./images/dough-background.png);
+    background-image: url(../images/dough-background.png);
     background-repeat: no-repeat;
     background-size: cover;
     font-family:'Inter';
